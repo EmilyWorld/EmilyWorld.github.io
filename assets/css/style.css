@@ -54,7 +54,6 @@ a:hover {
 
 .box-shadow, .paralax-mf, .service-box, .work-box, .card-blog {
   box-shadow: 0 13px 8px -10px rgba(0, 0, 0, 0.1);
-  border-radius: 5%;
 }
 
 .box-shadow-a, .button:hover {
@@ -955,7 +954,6 @@ a:hover {
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   background-color: #fff;
-  border-radius: 5%;
 }
 
 .work-box:hover img {
